@@ -2,7 +2,7 @@
 FIAP - Fase7 - Global Solution
 </h1>
 
-<img align="center" src="./assets/icon-fish.png" width="150px" height="150px">
+<p align="center"><img src="./assets/icon-fish.png" width="150px" height="150px"></p>
 
 <p align="center">
 OceanGuard é um aplicativo móvel com a proposta de educar e denunciar locais com lixos nas praias. Através de um jogo de memória, os usuários aprendem sobre o perigo de jogar lixo nas praias e, com a funcionalidade de denúncia, podem reportar áreas poluídas usando a API ViaCEP para identificar locais sujos e alertar as autoridades.
@@ -21,10 +21,8 @@ A FIAP, em colaboração com a UNESCO, AWS e Softtek, está empenhada em utiliza
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 
-<p align="center">
-  <video width="320" height="240" controls>
-  <source src="./assets/ocean-guard.gif" type="video/mp4">  
-</video>
+<p align="center">  
+  <img src="./assets/ocean-guard.gif">  
 </p>
 
 <br>
