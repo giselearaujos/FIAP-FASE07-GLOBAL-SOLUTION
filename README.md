@@ -17,6 +17,7 @@ A FIAP, em colaboração com a UNESCO, AWS e Softtek, está empenhada em utiliza
   <a href="#-explicação-do-projeto">Explicação do Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-justificativa-do-projeto">Justificativa do Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-api-utilizada">API Utilizada</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-api-utilizada">Aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -48,6 +49,9 @@ A poluição das praias é um problema sério que afeta a vida marinha e a saúd
 ## 🌐 API Utilizada
 
 - **ViaCEP**: Utilizada para buscar e identificar endereços através do CEP. A API ViaCEP permite que os usuários localizem rapidamente as áreas sujas que precisam ser denunciadas, garantindo precisão e facilitando a comunicação com as autoridades locais.
+
+## :sparkles: Aplicação 
+- Link da aplicação => https://snack.expo.dev/@giza/projeto-ocean-guard?platform=android
 
 ## :memo: Licença
 
